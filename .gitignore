@@ -70,3 +70,6 @@ typings/
 npm_check.sh
 npmCheck
 file_list.txt
+
+#My Files
+.cache_ggshield
